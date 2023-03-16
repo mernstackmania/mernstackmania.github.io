@@ -3,10 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    background-color: rgb(164, 164, 219);
+}
+h1{
+    text-align: center;
+    background-color: brown;
+    font-size: 70px;
+    color: white;
+    
+}
 .containor{
     width: 100%;
-    height: auto;
+    height: 100vh;
     background-color: rgb(164, 164, 219);
     display: flex;
     align-items: center;
